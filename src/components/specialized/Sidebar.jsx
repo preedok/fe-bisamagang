@@ -65,8 +65,8 @@ const Sidebar = ({ isSidebarOpen, setIsSidebarOpen }) => {
               <div style={{ backgroundColor: "white" }} className="flex">
                 <img
                   src={logo}
-                  style={{ width: "200px", height: "50px" }}
-                  className={`px-6 mt-3 hidden lg:inline`}
+                  style={{ width: "300px", height: "70px" }}
+                  className={`px-6 hidden lg:inline`}
                   alt="Logo"
                 />
                 <button
